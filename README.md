@@ -4,19 +4,19 @@
 
  ```python
   class WhoAmI:
-    user = 'Josimar Leon'
+    user = 'Sebastian Leon'
 	current_edu = "CSIT"
     currently_learning = "Javascript"
     fun_fact = "I hate Chillies"
 	hobbies = [
 				'Music',
-                         'Football',
+                         'Movies',
 			 	'Gaming',
-				'GyM'
+				'After'
 			]
 	
 	def getCity():
-		return Andahuaylas_Peru()
+		return Lima_Peru()
 	
 	
  ```
